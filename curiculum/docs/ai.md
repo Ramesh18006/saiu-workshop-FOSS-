@@ -5,11 +5,12 @@
 ## Firts Year 
 
 ### 1st Sem 
- - Pofessional english
-
-
-## First year
-
+ - Writing and Communication
+ - EVS
+ - C Programming
+ - Frontiers of AI
+ - Linear Algebra
+ - Entrepreneurship
 
 #### 2nd sem
 * ICD
